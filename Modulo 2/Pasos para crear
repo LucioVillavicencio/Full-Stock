@@ -1,0 +1,10 @@
+Open cmd and
+pip install virtualenv
+Se utiliza:
+1. virtualenv env
+2. .\env\Scripts\activate
+3. pip freeze
+4. pip install python-dateutil
+5. pip freeze
+6. deactivate
+7. pip uninstall
